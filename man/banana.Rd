@@ -7,7 +7,7 @@
 banana(answer, rings, caller)
 }
 \arguments{
-\item{answer}{would you like to answer the call}
+\item{answer}{would you like to return the call}
 
 \item{rings}{how many times did bananaphone ring}
 
